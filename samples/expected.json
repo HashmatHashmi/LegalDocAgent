@@ -1,0 +1,46 @@
+{
+  "sample_lease.txt": [
+    "price_increase",
+    "sole_discretion",
+    "nonrefundable",
+    "entry_access",
+    "one_sided_termination",
+    "notice_asymmetry",
+    "eviction",
+    "penalty",
+    "rent_burden",
+    "waiver"
+  ],
+  "sample_employment.txt": [
+    "unpaid_work",
+    "setoff",
+    "one_sided_termination",
+    "service_bond",
+    "non_compete",
+    "ip_assignment",
+    "confidentiality_survival"
+  ],
+  "sample_service.txt": [
+    "late_fees",
+    "setoff",
+    "indemnity",
+    "unlimited_liability",
+    "ip_assignment",
+    "auto_renewal",
+    "unilateral_change",
+    "dispute_forum",
+    "warranty_disclaimer",
+    "one_sided_termination"
+  ],
+  "sample_nda_mutual.txt": [],
+  "sample_lease_titlecase.pdf": [
+    "blanket_responsibility",
+    "late_fees",
+    "entry_access",
+    "approval_any_reason",
+    "one_sided_termination",
+    "subjective_trigger",
+    "penalty",
+    "take_it_or_leave_it"
+  ]
+}

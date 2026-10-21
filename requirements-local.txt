@@ -1,0 +1,5 @@
+# ---- requirements-local.txt ----
+torch==2.12.1
+transformers==4.44.2
+sentencepiece==0.2.1
+safetensors==0.8.0

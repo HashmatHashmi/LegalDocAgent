@@ -1,0 +1,27 @@
+SOFTWARE DEVELOPMENT SERVICES AGREEMENT
+
+This Services Agreement is entered into on 10 May 2026 between Orion Retail Ltd. (the "Client") and Delta Devs (the "Provider").
+
+1. Services
+The Provider shall develop and deliver a mobile application as described in Schedule A (the "Services"). The Client shall pay a fee of USD 25,000 in three instalments.
+
+2. Payment
+Invoices are payable within 7 days. Late payments incur interest of 4% per month. The Client may withhold payment at its sole discretion if it is not satisfied with the Services.
+
+3. Liability and Indemnity
+The Provider shall indemnify and hold harmless the Client against all claims, losses and expenses of any kind arising out of the Services, and shall have unlimited liability for any damages.
+
+4. Intellectual Property
+All work product and intellectual property created by the Provider, including pre-existing tools, is assigned to the Client in perpetuity.
+
+5. Term and Renewal
+This Agreement runs for twelve (12) months and renews automatically for successive terms unless the Provider gives six (6) months notice of non-renewal. The Client may terminate for convenience at any time without notice.
+
+6. Changes
+The Client may amend this Agreement or the scope of the Services at any time without the Provider's consent.
+
+7. Dispute Resolution
+Any dispute shall be resolved by binding arbitration before a sole arbitrator appointed by the Client.
+
+8. Warranty
+The Client provides all materials as is without any warranty.
